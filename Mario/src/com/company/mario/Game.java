@@ -23,7 +23,7 @@ public class Game extends Canvas implements Runnable //Runnable = interface
 	
 	public synchronized void stop()
 	{
-
+			// Krish und Antonio
 	}
 	
 	public void run()
