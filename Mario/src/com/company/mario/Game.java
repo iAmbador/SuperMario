@@ -28,7 +28,6 @@ public class Game extends Canvas implements Runnable //Runnable = interface
 	
 	public void run()
 	{
-		//kldösajföl
 		System.out.println("Hallo");
 	}
 	
