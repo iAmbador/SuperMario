@@ -23,11 +23,12 @@ public class Game extends Canvas implements Runnable //Runnable = interface
 	
 	public synchronized void stop()
 	{
-		//kljjlk
+
 	}
 	
 	public void run()
 	{
+		//kldösajföl
 		System.out.println("Hallo");
 	}
 	
